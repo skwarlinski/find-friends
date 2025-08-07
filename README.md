@@ -6,7 +6,7 @@
 
 ## 📱 Demo
 
-![Find Friends Interface](others/find-friends.png)
+![Find Friends Interface](others/findfriends.png)
 
 > Możesz uruchomić aplikację lokalnie lub na [Streamlit Cloud](https://ffind-friends.streamlit.app/).
 
