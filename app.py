@@ -10,7 +10,7 @@ import os
 
 # Konfiguracja strony
 st.set_page_config(
-    page_title="🔍 Find Friends",
+    page_title="Find Friends",
     page_icon="🔍",
     layout="wide",
     initial_sidebar_state="expanded"
