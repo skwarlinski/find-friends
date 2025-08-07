@@ -10,7 +10,7 @@ import os
 
 # Konfiguracja strony
 st.set_page_config(
-    page_title="🔍 Znajdź Swoją Grupę",
+    page_title="🔍 Find Friends",
     page_icon="🔍",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -432,7 +432,7 @@ def show_demo_mode():
 def main():
     st.markdown("""
     <div class="main-header">
-        <h1>🔍 Znajdź Swoją Grupę</h1>
+        <h1>🔍 Find Friends</h1>
         <p>Wykorzystaj AI do odkrycia osób o podobnych zainteresowaniach</p>
     </div>
     """, unsafe_allow_html=True)
