@@ -43,7 +43,7 @@ find-friends/
    # Zainstaluj zależności
    pip install -r requirements.txt
 
-   #Uruchom aplikację
+   # Uruchom aplikację
    streamlit run app.py
    ```
 
