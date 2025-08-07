@@ -8,6 +8,8 @@
 
 ![Find Friends Interface](others/find-friends.png)
 
+> Możesz uruchomić aplikację lokalnie lub na [Streamlit Cloud](https://ffind-friends.streamlit.app/).
+
 ## 📁 Struktura projektu
 
 ```
